@@ -40,7 +40,7 @@
   "dependencies": {
     "localforage": "^1.7.4",
     "mui-datatables": "^3.1.4",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "next-fonts": "^1.0.3",
     "next-offline": "^5.0.0",
     "notistack": "^0.9.9",
